@@ -1,9 +1,12 @@
-## Hi there 👋
+### 🚀 About Me
 
+Hi! I'm **Chen Xi**, a postgraduate student specializing in **Software Technology** at **Universiti Malaya**. 
 
-Hi! I'm Chen Xi, currently a postgraduate student in Universiti Malaya. My hometown is Shenzhen, a vibrant city located in Guangdong, China.
-With a bachelor's degree of Software Engineering and two pieces of internship relevant with Software Testing, I'm highly expected to engage in modern software maintainence and development.
-I also have strong interest in AI, as I'm a deep user of various generative AI-bots, and I'm always curious about AI trends.
+- 🎓 **Background**: I hold a Bachelor's degree in Software Engineering and have completed two internships focused on **Software Testing**.
+- 🛠️ **Focus**: Currently passionate about modern software maintenance, development practices, and creating innovative solutions.
+- 🤖 **AI Enthusiast**: As a deep user and observer of generative AI, I'm constantly exploring how AI trends can be integrated into software engineering workflows.
+- 📍 **Hometown**: Shenzhen, China 🇨🇳
+
 
 Here are some ideas to get you started:
 
