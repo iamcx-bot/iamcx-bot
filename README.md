@@ -12,9 +12,9 @@ Here are some ideas to get you started:
       Research fields: ML, AI, Big Data Processing, full-stack development, Web Application development, Software Testing, Requirement Engineering
       Technology Stacks: pytorch, tensorflow, matplotlib, hadoop, SpringBoot, Vue.js, MySQL
 - 📫 How to reach me: 
-      - school email: 25053692@siswa.um.edu.my
-      - personal email: chenxi_cn2003@outlook.com
-      - phone number: +60 16 208 9013
+      - **school email: 25053692@siswa.um.edu.my**
+      - **personal email: chenxi_cn2003@outlook.com**
+      - **phone number: +60 16 208 9013**
 - ⚡ Fun fact: 
       I love wandering around and taking photos in my free time. I'm always wanting to travel to various cities and feeling the charm of different landscapes.
       Programming has been one of my hobbies since my postgraduate courselife, as it helps me enhance my skill on creating innovations.
