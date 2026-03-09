@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-Hi! I'm Chen Xi, a student in the Framework-based Software Development course. 
-I expect to learn a lot about modern software development practices and how to work with legacy systems.
+Hi! I'm Chen Xi, currently a postgraduate student in Universiti Malaya. My hometown is Shenzhen, a vibrant city located in Guangdong, China.
+With a bachelor's degree of Software Engineering and two pieces of internship relevant with Software Testing, I'm highly expected to engage in modern software maintainence and development.
+I also have strong interest in AI, as I'm a deep user of various generative AI-bots, and I'm always curious about AI trends.
 
 Here are some ideas to get you started:
 
