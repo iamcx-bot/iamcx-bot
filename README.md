@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Hi! I'm Chen Xi, a student in the Framework-based Software Development course. 
 I expect to learn a lot about modern software development practices and how to work with legacy systems.
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
       Here's a picture of me. Feel free to contact me haha
       ![mmexport1745425337793](https://github.com/user-attachments/assets/09aca765-9742-477c-a267-18e3f55a04b7)
 
--->
+
