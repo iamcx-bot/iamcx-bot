@@ -9,8 +9,6 @@ Hi! I'm **Chen Xi**, a postgraduate student specializing in **Software Technolog
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently a postgraduate student from Universiti Malaya, Master of Software Engineering (Software Technology).
   
 - 🌱 **My Technical Skills:**
       Programming Languages: Python, Java
